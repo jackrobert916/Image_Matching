@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1kVLuowYspoFO7NvpOtxpi2Idb8oao7oqWy5rVEw1wKhsUHEgthlLmZnm9aOGz7jgDyK/732s5dcEz9vrXpukA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Henny\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henny\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
+    "C:\\Users\\Henny\\.nuget\\packages\\google.apis.core\\1.57.0\\google.apis.core.1.57.0.nupkg.sha512",
+    "C:\\Users\\Henny\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Henny\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
+    "C:\\Users\\Henny\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

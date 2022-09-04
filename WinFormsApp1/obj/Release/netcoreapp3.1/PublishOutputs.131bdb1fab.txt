@@ -1,0 +1,10 @@
+E:\Project\09.02(gcp)\WinFormsApp1.exe
+E:\Project\09.02(gcp)\WinFormsApp1.dll
+E:\Project\09.02(gcp)\WinFormsApp1.deps.json
+E:\Project\09.02(gcp)\WinFormsApp1.runtimeconfig.json
+E:\Project\09.02(gcp)\WinFormsApp1.pdb
+E:\Project\09.02(gcp)\Google.Apis.dll
+E:\Project\09.02(gcp)\Google.Apis.Core.dll
+E:\Project\09.02(gcp)\Newtonsoft.Json.dll
+E:\Project\09.02(gcp)\RestSharp.dll
+E:\Project\09.02(gcp)\System.Text.Json.dll
